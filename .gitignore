@@ -1,0 +1,7 @@
+.vscode
+obj
+src/UserManagement/Application/.DS_Store
+src/UserManagement/Presentation/Adm.Api/appsettings.json
+src/UserManagement/Presentation/Adm.Api/log4net.config
+.DS_Store
+.vs
